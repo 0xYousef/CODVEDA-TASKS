@@ -1,3 +1,0 @@
-public enum OPERATIONS {
-    SUM, SUB, MUL, DIV, CLEAR, RESULT
-}
